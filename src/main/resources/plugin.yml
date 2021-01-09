@@ -1,0 +1,12 @@
+main: pl.trollcraft.sbspleef.SbSpleef
+name: SbSpleef
+authors: [LucyferMS, mkko120]
+version: 2.0
+api-version: 1.13
+depend:
+  - FastAsyncWorldEdit
+  - WorldGuard
+  - Multiverse-Core
+commands:
+  spleef:
+    usage: /spleef
